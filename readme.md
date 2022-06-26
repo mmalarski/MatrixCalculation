@@ -19,8 +19,8 @@ Done in the meantime as a joke, the one-file project is capable of some matrix c
 ### Disclaimer
 This is a simple project to learn some matrix calculations
 in the meantime of studying for the exam. The purpose of it was to
-endure my calculations on paper were correct. At that time the best
-option seemed to be implementing the equations in the code.
+ensure my calculations on paper were correct. At that time implementing
+the equations in code seemed to be the best option.
 
 ### Screenshots
 ![Screenshot of the first prompts that are visible after program execution](visualisation1.png)
